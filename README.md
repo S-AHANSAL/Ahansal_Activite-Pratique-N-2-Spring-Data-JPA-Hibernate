@@ -8,10 +8,10 @@ Ce projet est divisé en trois parties, chacune correspondant à une branche dif
 ## Partie 1
 
 La partie 1 du projet consiste à implémenter les étapes suivantes :
-
+### A.Utiliser base de données H2:
+![H2](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/8711f9de-d28e-41db-82b7-db7fedea3d9b)
 1. Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombok
-![Créer un projet Spring Initializer](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/8711f9de-d28e-41db-82b7-db7fedea3d9b)
-
+![cree projet a](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/a1caaae1-0348-4170-a236-f3af676df02a)
 2. Créer l'entité JPA Product ayant les attributs :
     - private Long id;
     - private String name;
@@ -27,3 +27,5 @@ La partie 1 du projet consiste à implémenter les étapes suivantes :
 
 5. Tester quelques opérations de gestion de produits:
 ![Tester quelques opérations de gestion de produits](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/c84f7419-b487-4875-8539-ec3bf21b6477)
+### B.Utiliser base de données MySql:
+![Mysql](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/a1bb9070-cee5-4477-8eab-a3a37a081e09)
