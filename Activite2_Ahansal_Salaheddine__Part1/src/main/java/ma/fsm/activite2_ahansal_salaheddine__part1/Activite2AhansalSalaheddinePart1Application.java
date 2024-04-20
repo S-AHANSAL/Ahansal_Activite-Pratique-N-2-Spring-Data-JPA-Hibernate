@@ -32,5 +32,23 @@ public class Activite2AhansalSalaheddinePart1Application implements CommandLineR
         System.out.println(product.getName());
         System.out.println(product.getQuantity());
         System.out.println("******************");
+
+        System.out.println("------------");
+        List<Product> productList = productRepository.findByNameContains("C");
+        productList.forEach(p->{
+            System.out.println(p);
+        });
+
+        System.out.println("##########");
+        List<Product> productList2 = productRepository.search("%C%");
+        productList2.forEach(p->{
+            System.out.println(p);
+        });
+        System.out.println("@@@@@@@@@@@");
+        List<Product> productList3 = productRepository.searchByPrice(3000);
+        productList3.forEach(p->{
+            System.out.println(p);
+        });
+
     }
 }
