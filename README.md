@@ -27,5 +27,19 @@ La partie 1 du projet consiste à implémenter les étapes suivantes :
 
 5. Tester quelques opérations de gestion de produits:
 ![Tester quelques opérations de gestion de produits](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/c84f7419-b487-4875-8539-ec3bf21b6477)
-### B.Utiliser base de données MySql:
-![Mysql](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/a1bb9070-cee5-4477-8eab-a3a37a081e09)
+### B. Utiliser base de données MySql:
+1. **Configuration de la base de données MySQL**
+   ![Mysql](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/a1bb9070-cee5-4477-8eab-a3a37a081e09)
+
+2. **Ajout de la dépendance MySQL dans le fichier de configuration**
+   ![Ajouter dépendance MySQL](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/bad7be62-86f7-4844-b295-c2bdd4f42af6)
+
+3. **Configuration de l'unité de persistance dans le fichier application.properties**
+   ![Configurer l'unité de persistance dans le fichier application properties](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/49139472-2193-41e1-a9b0-d216ee6d4c74)
+
+4. **Accès à PhpMyAdmin pour la gestion de la base de données**
+   ![Accéder à PhpMyAdmin](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/fb17b90a-72d4-4a0f-8579-4f0d5c6beff4)
+
+5. **Création d'un Web Service pour interagir avec la base de données MySQL**
+   ![Créer un Web Service](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/91754ebd-374e-40b0-a95c-af7420fa0cf9)
+
