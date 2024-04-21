@@ -104,3 +104,9 @@ Modifiez votre CommandLineRunner pour utiliser les services que vous avez créé
 ![USES](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/e1ec35b0-41d1-4345-9541-5c6b91647974)
 
 ---version3---
+
+## 9. Ajouter une partie Web avec un contrôleur
+
+Dans cette version, nous ajoutons une partie Web à notre projet en introduisant un contrôleur pour gérer les requêtes HTTP.
+![rest](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/99097875-46a7-4797-a425-fda5f6148222)
+![web](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/0ea9b157-d51e-4449-b2f0-a09f8828ccf2)
