@@ -87,17 +87,20 @@ Ajoutez un CommandLineRunner pour tester votre application en exécutant du code
 
 Introduisez une couche de service pour encapsuler la logique métier de votre application.
 
-![Ajouter un Service](images/step6.png)
+![SE](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/683857b8-7380-40bc-a2b0-0a5084833c3e)
+
+![ser](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/f83596b2-af0b-4828-954f-ab329779c354)
 
 ## 7. Implémenter le Service
 
 Implémentez les méthodes définies dans votre couche de service.
-
-![Implémenter le Service](images/step7.png)
+![serimpl](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/5f0a5ea6-0d01-40e3-a5c9-7cfd351a2197)
+![serimpl2](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/0020d315-7995-4442-9cf7-e5a6430891fe)
 
 ## 8. Tester l'application avec CommandLineRunner en utilisant le Service
 
 Modifiez votre CommandLineRunner pour utiliser les services que vous avez créés et testez l'application avec ceux-ci.
 
-![Tester l'application avec CommandLineRunner en utilisant le Service](images/step8.png)
+![USES](https://github.com/S-AHANSAL/Ahansal_Activite-Pratique-N-2-Spring-Data-JPA-Hibernate/assets/81721069/e1ec35b0-41d1-4345-9541-5c6b91647974)
 
+---version3---
